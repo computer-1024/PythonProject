@@ -3,7 +3,7 @@ import re
 import urllib.request
 
 #西安房99地产网
-# 长安区  起始地址 --  http://www.fang99.com/buycenter/buildingsearch.aspx?zone=27
+### 长安区  起始地址 --  http://www.fang99.com/buycenter/buildingsearch.aspx?zone=27
 # 长安区  终止地址 --  http://www.fang99.com/buycenter/buildingsearch.aspx?zone=27&page=2
 
 
