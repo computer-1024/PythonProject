@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import re
 import urllib.request
+import urllib.error
 
 #西安房99地产网
 ### 长安区  起始地址 --  http://www.fang99.com/buycenter/buildingsearch.aspx?zone=27

@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="026aea97-a941-4d52-89d6-9eafc0fc8c3d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyweb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyerror.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyweb.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyweb.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +41,29 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.pyerror">
+    <configuration name="pyerror" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyerror.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="pyweb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -71,6 +88,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pyerror" />
         <item itemvalue="Python.pyweb" />
       </list>
     </recent_temporary>
@@ -100,48 +118,83 @@
       <workItem from="1578313851929" duration="4000" />
       <workItem from="1578313877007" duration="26000" />
       <workItem from="1578313912572" duration="668000" />
-      <workItem from="1578314596853" duration="487000" />
+      <workItem from="1578314596853" duration="7395000" />
     </task>
+    <task id="LOCAL-00001" summary="测试提交">
+      <created>1578315139652</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578315139652</updated>
+    </task>
+    <task id="LOCAL-00002" summary="测试提交">
+      <created>1578315289488</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578315289488</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试提交" />
   </component>
   <component name="WindowStateProjectService">
     <state x="296" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578313964594">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="296" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578313964594" />
-    <state x="454" y="114" key="CommitChangelistDialog2" timestamp="1578315139064">
+    <state x="454" y="114" width="1046" height="807" key="CommitChangelistDialog2" timestamp="1578315288728">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="454" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578315139064" />
+    <state x="454" y="114" width="1046" height="807" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578315288728" />
     <state x="702" y="412" width="489" height="211" key="Github.ShareDialog" timestamp="1578315162212">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="702" y="412" width="489" height="211" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578315162212" />
-    <state width="670" height="259" key="GridCell.Tab.0.bottom" timestamp="1578314580736">
+    <state width="938" height="277" key="GridCell.Tab.0.bottom" timestamp="1578320133014">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="670" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578314580736" />
-    <state width="670" height="259" key="GridCell.Tab.0.center" timestamp="1578314580735">
+    <state width="938" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578320133014" />
+    <state width="938" height="277" key="GridCell.Tab.0.center" timestamp="1578320133014">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="670" height="259" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578314580735" />
-    <state width="670" height="259" key="GridCell.Tab.0.left" timestamp="1578314580735">
+    <state width="938" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578320133014" />
+    <state width="938" height="277" key="GridCell.Tab.0.left" timestamp="1578320133014">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="670" height="259" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578314580735" />
-    <state width="670" height="259" key="GridCell.Tab.0.right" timestamp="1578314580736">
+    <state width="938" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578320133014" />
+    <state width="938" height="277" key="GridCell.Tab.0.right" timestamp="1578320133014">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="670" height="259" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578314580736" />
+    <state width="938" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578320133014" />
     <state x="249" y="152" key="SettingsEditor" timestamp="1578314276285">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="249" y="152" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578314276285" />
+    <state x="434" y="253" key="Vcs.Push.Dialog.v2" timestamp="1578315386049">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="434" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578315386049" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonProject$pyerror.coverage" NAME="pyerror Coverage Results" MODIFIED="1578320133003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$pyweb.coverage" NAME="pyweb Coverage Results" MODIFIED="1578313970011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
